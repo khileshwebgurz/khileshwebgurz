@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Khilesh Singh
-- 👀 I’m interested in Research
+- 👀 I’m interested in Peace 
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me ...
-- ⚡ Fun fact: I like Light Yagami
+- ⚡ Fun fact: I'm Kira
 
 <!---
 khileshwebgurz/khileshwebgurz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
